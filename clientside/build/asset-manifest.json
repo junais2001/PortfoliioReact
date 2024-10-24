@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20264c2e.css",
+    "main.js": "/static/js/main.129a4adf.js",
+    "static/js/453.a74ff157.chunk.js": "/static/js/453.a74ff157.chunk.js",
+    "static/media/blog.png": "/static/media/blog.9e17061294fe6b5ce2d2.png",
+    "static/media/travel.jpeg": "/static/media/travel.d93c56945056c1346c72.jpeg",
+    "static/media/wolf.png": "/static/media/wolf.d779f6136819907393ea.png",
+    "static/media/mongodb.png": "/static/media/mongodb.4f04d5c0209461cc39ef.png",
+    "static/media/mongodb.pdf": "/static/media/mongodb.2700473b2c972f3cf88f.pdf",
+    "static/media/nodejs.png": "/static/media/nodejs.6cf88ef0e10242696117.png",
+    "static/media/javascript.png": "/static/media/javascript.0dca8497883d11ba8e63.png",
+    "static/media/dataanalysispython.pdf": "/static/media/dataanalysispython.6096d920b77559e28057.pdf",
+    "static/media/machinelearning.pdf": "/static/media/machinelearning.cbea1d28ccd4a1228348.pdf",
+    "static/media/javascript.pdf": "/static/media/javascript.ab0ead8f2daa2da7aa5b.pdf",
+    "static/media/nodejs.pdf": "/static/media/nodejs.ab0ead8f2daa2da7aa5b.pdf",
+    "static/media/dataanalysis.png": "/static/media/dataanalysis.122406bf547c3d7219e5.png",
+    "static/media/machinelearning.png": "/static/media/machinelearning.5783a7646d89a54bbc38.png",
+    "static/media/JunaisMusthafa_Resume.pdf": "/static/media/JunaisMusthafa_Resume.01d272f1c64428b9a85d.pdf",
+    "static/media/Junais.jpg": "/static/media/Junais.0b0146f53dce8c3b9cab.jpg",
+    "static/media/password.png": "/static/media/password.37ad1673a30078cec69a.png",
+    "static/media/login.jpg": "/static/media/login.8a254106c31ae9cd41b0.jpg",
+    "static/media/data.jpeg": "/static/media/data.23b141c4ef130d0ac49b.jpeg",
+    "index.html": "/index.html",
+    "main.20264c2e.css.map": "/static/css/main.20264c2e.css.map",
+    "main.129a4adf.js.map": "/static/js/main.129a4adf.js.map",
+    "453.a74ff157.chunk.js.map": "/static/js/453.a74ff157.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20264c2e.css",
+    "static/js/main.129a4adf.js"
+  ]
+}
